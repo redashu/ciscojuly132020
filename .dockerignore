@@ -1,0 +1,5 @@
+LICENSE
+*.md
+.git
+ashu.dockerfile
+.dockerignore
